@@ -1,2 +1,2 @@
 # cs32240-labdemo
-# By Brian Jigarjian
+# Brian Jigarjian
